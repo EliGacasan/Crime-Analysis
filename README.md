@@ -1,4 +1,14 @@
 # Crime-Analysis
+
+## California Crime Analysis
+Two files, app.R and CAOpenjustice.R. CAOpenjustice.R does data preparation before running app.R. The interpretations for the "Statistical Analysis" tab are expected rates. Video demonstration 
+here: youtube.com
+
+
+Arrest data obtained via https://openjustice.doj.ca.gov/data
+Shapefile (for map) obtained via https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-counties-1/explore?location=39.492298%2C-106.612721%2C5.49
+
+## Replication 
 Exact replication of the Bureau of Justice statistics 2015 annual report of the National Crime Victimization Survey (https://bjs.ojp.gov/content/pub/pdf/cv15.pdf). We replicate the rate of violent victimization per 1,000 persons, the rate of serious violent crime involving weapons per 1,000 persons, the rate of property victimization per 1,000 households,
 and the rate of robberies per 1,000 persons. 
 
