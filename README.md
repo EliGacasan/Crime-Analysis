@@ -5,6 +5,12 @@ Two files, app.R and CAOpenjustice.R. CAOpenjustice.R does data preparation befo
 here: [youtube.com](https://www.youtube.com/watch?v=JoVNhNWRsjQ&feature=youtu.be)
 
 
+![image](https://github.com/EliGacasan/Crime-Analysis/assets/110142627/df6415e0-5b6b-4b42-a340-b8223cedda98)
+![image](https://github.com/EliGacasan/Crime-Analysis/assets/110142627/da889f25-96bf-4c65-ae4e-ef536014e5e7)
+![image](https://github.com/EliGacasan/Crime-Analysis/assets/110142627/3c9d9a2b-5068-44cc-8637-076f55251f07)
+![image](https://github.com/EliGacasan/Crime-Analysis/assets/110142627/07e0ac77-fe51-463c-b64f-7f48aec91deb)
+
+
 Arrest data obtained via https://openjustice.doj.ca.gov/data
 
 Shapefile (for map) obtained via https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-counties-1/explore?location=39.492298%2C-106.612721%2C5.49
