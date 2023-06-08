@@ -2,7 +2,7 @@
 
 ## California Crime Analysis
 Two files, app.R and CAOpenjustice.R. CAOpenjustice.R does data preparation before running app.R. The interpretations for the "Statistical Analysis" tab are expected rates. Video demonstration 
-here: youtube.com
+here: [youtube.com](https://www.youtube.com/watch?v=JoVNhNWRsjQ&feature=youtu.be)
 
 
 Arrest data obtained via https://openjustice.doj.ca.gov/data
